@@ -1,0 +1,43 @@
+{
+    "key": "group_5d1cea732a215",
+    "title": "Video Slideshow",
+    "fields": [
+        {
+            "key": "field_5d1cea816b084",
+            "label": "Video Slideshow Shortcode",
+            "name": "video_slideshow_shortcode",
+            "type": "text",
+            "instructions": "[gon-video-slideshow post_id=\"###\"]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "page-home.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1562176290
+}
